@@ -31,8 +31,8 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-scraper.git
-   cd ecommerce-scraper
+   git clone https://github.com/Nitya-Shukla/AspireNex-Task-2
+   cd AspireNex-Task-2
    ```
 2. **Install dependencies:**
 
